@@ -1,3 +1,3 @@
 # python
-my small scripts
+my python scripts
 
